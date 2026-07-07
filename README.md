@@ -121,12 +121,12 @@ Based on the analysis:
 ```
 Trader-Performance-vs-Market-Sentiment/
 │
-├── data/
+├── 
 │   ├── historical_data.csv
 │   └── fear_greed.csv
 │
-├── notebook/
-│   └── Trader_Performance_vs_Market_Sentiment.ipynb
+├── 
+│   └─ Trader_Performance_vs_Market_Sentiment.ipynb
 │
 ├── charts/
 │
